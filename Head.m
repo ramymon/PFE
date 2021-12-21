@@ -1,0 +1,10 @@
+fprintf('\n\n\n') ;
+fprintf(' ************************************************************************\n');
+disp(' * Ecole Nationale Polytechnique d''Alger *');
+disp(' * Département d'' Automatique*');
+disp(' * Projet fin d''etude *');
+disp(' * LMI resolution *');
+disp(' * Année 2020-2021 *');
+disp(' * Proposé par : M. ACHOUR Hakim *');
+disp(' * Réalisé par : ALLEL Moncef - SELLAH Islem *');
+fprintf(' *********************************************************************\n\n\n') ;
